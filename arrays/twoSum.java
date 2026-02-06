@@ -1,4 +1,4 @@
-package basics;
+package arrays;
 
 public class twoSum {
 

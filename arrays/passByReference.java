@@ -1,6 +1,6 @@
 // array is always passed by reference in java
 
-package basics;
+package arrays;
 
 public class passByReference {
 

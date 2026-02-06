@@ -1,6 +1,6 @@
 // variables are always passed by value in java
 
-package basics;
+package arrays;
 
 public class passByValue {
 
